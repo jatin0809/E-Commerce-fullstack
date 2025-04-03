@@ -7,7 +7,7 @@ const Footer = () => {
       <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
 
         <div>
-            <img src={assets.logo} className='mb-5 w-32' alt="" />
+            <img src={assets.logo} className='mb-5 w-40' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
             Forever is a fashion destination that brings timeless style to life. Our brand celebrates individuality, offering high-quality, 
             trend-forward clothing designed for every moment, making you look and feel your best—today, tomorrow, and forever.
@@ -28,7 +28,7 @@ const Footer = () => {
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
                 <li>+1-212-456-7890</li>
-                <li>admin@jatinsharma.in</li>
+                <li>admin@smartkart.in</li>
             </ul>
         </div>
 
@@ -36,7 +36,7 @@ const Footer = () => {
 
         <div>
             <hr />
-            <p className='py-5 text-sm text-center'>Copyright 2024@ jatinsharma.in - All Right Reserved.</p>
+            <p className='py-5 text-sm text-center'>Copyright 2025@ smartkart.in - All Right Reserved.</p>
         </div>
 
     </div>
